@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sara%20Alhane!%20🌸✨&fontSize=40&fontColor=fff&animation=glitch&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Sara%20Alhane%20%7C%20Innovate%20Create%20Inspire&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 
 
@@ -63,7 +63,7 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ---
 
-![Funny Snake](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Contribution Fun](https://github-readme-streak-stats.herokuapp.com/?user=sara-alhane&theme=radical&hide_border=false)
 
 --- 
 
