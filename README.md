@@ -49,9 +49,8 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ## 🎨 Interests
 
-- 📚 Online learning & self-study  
-- 🍰 Pastry  
-- 👜 Handbag creation  
+- 📚 Online learning & self-study
+- 🛍️ E-commerce & web project building
 - 💡 Hackathons & collaborative projects
 
 ---
@@ -65,7 +64,7 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ---
 
-[![High-Five!](https://img.shields.io/badge/High-Five!-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sara-alhane)
+[![High-Five!](https://img.shields.io/badge/High-Five!-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saraalhane)
 
 
 
