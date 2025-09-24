@@ -1,6 +1,7 @@
 # Hi there 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sara%20Alhane%20fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20World!%20🌸✨&fontSize=40&fontColor=fff&animation=glitch&fontAlignY=35)
+
 
 
 ## 👋 About Me
@@ -71,7 +72,7 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ---
 
-![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Animated Badge](https://img.shields.io/badge/Have-Fun!-ff69b4?style=for-the-badge&logo=ghost&logoColor=white&animation=glitch)
 
 --- 
 
