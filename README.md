@@ -65,7 +65,8 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ---
 
-[![Virtual High-Five](https://img.shields.io/badge/Virtual-High-Five!-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sara-alhane)  
+[![High-Five!](https://img.shields.io/badge/High-Five!-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sara-alhane)
+
 
 
 --- 
