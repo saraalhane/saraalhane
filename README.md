@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sara%20Alhane%20🚀&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sara%20Alhane%20fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 
 ## 👋 About Me
@@ -71,8 +71,8 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ---
 
-![Fun Banner](https://capsule-render.vercel.app/api?type=wave&color=purple&height=80&section=footer&text=Thanks%20for%20visiting!%20😹&fontSize=30&fontColor=fff&animation=twinkling)
+![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 --- 
 
-✨ *Thanks for visiting my profile! Feel free to connect or collaborate on projects.* 🚀
+✨ *Thanks for visiting my profile! Feel free to connect or collaborate on projects.* ✨
