@@ -63,7 +63,10 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ---
 
-![Fun Stats](https://github-readme-stats.vercel.app/api/pin/?username=sara-alhane&repo=fun-project&show_icons=true&theme=radical)
+---
+
+[![Virtual High-Five](https://img.shields.io/badge/Virtual-High-Five!-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sara-alhane)  
+
 
 --- 
 
