@@ -63,7 +63,7 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ---
 
-![Contribution Fun](https://github-readme-streak-stats.herokuapp.com/?user=sara-alhane&theme=radical&hide_border=false)
+![Fun Stats](https://github-readme-stats.vercel.app/api/pin/?username=sara-alhane&repo=fun-project&show_icons=true&theme=radical)
 
 --- 
 
