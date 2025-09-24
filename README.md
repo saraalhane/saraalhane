@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20World!%20🌸✨&fontSize=40&fontColor=fff&animation=glitch&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sara%20Alhane!%20🌸✨&fontSize=40&fontColor=fff&animation=glitch&fontAlignY=35)
 
 
 
@@ -39,15 +39,6 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sara-alhane&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-alhane&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌍 Languages
 
 - 🇫🇷 French – B2  
@@ -72,7 +63,7 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 
 ---
 
-![Animated Badge](https://img.shields.io/badge/Have-Fun!-ff69b4?style=for-the-badge&logo=ghost&logoColor=white&animation=glitch)
+![Funny Snake](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 --- 
 
