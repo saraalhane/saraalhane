@@ -1,6 +1,7 @@
 # Hi there 👋
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Sara%20Alhane%20🚀&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sara%20Alhane%20🚀&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+
 
 ## 👋 About Me
 Hi, I'm **Sara Alhane**, a **Junior Full Stack Web Developer** from Morocco 🇲🇦.  
@@ -66,9 +67,12 @@ I’m passionate about **web development**, **digital creation**, and **emerging
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sara%20Alhane-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sara-alhane-b4a4ab35a)  
-📧 Email: sara.alhane.tech@gmail.com  
-📱 Phone: +212 688 539 107
+📧 Email: sara.alhane.tech@gmail.com
 
 ---
+
+![Fun Banner](https://capsule-render.vercel.app/api?type=wave&color=purple&height=80&section=footer&text=Thanks%20for%20visiting!%20😹&fontSize=30&fontColor=fff&animation=twinkling)
+
+--- 
 
 ✨ *Thanks for visiting my profile! Feel free to connect or collaborate on projects.* 🚀
